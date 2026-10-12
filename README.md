@@ -13,10 +13,10 @@ These days I point that at cities — how they are run, measured and talked to.
 |---|---|
 | **On-prem & cloud AI infra** | Built and ran GPU/NPU inference, MLOps, IAM and monitoring shaped to each customer. |
 | **K-Urbanism** | Building a platform on my own that treats the city as one organism you can talk with. |
-| **NPU tooling** | Vision and generative models on NPUs with FuriosaAI and SKT, plus the exporters, CLI and dashboards around them. |
+| **NPU tooling** | Vision and generative models on Korean NPUs, plus the exporters, CLI and dashboards around them. |
 | **From early modern AI to now** | Vision models → LLM deployment, RAG, quantization → agents that plan, use tools and act. |
-| **Communication** | Led people as an army engineer officer and teams as an infra lead. Works with overseas teams in English. |
-| **The path** | Environmental engineering → officer → a year of 12-hour days learning to code → top trainee at Samsung Multicampus → infra lead at an AI startup. |
+| **Communication** | Led people in the military and teams as an infra lead. Works with overseas teams in English. |
+| **The path** | Engineering degree → military service → a year of 12-hour days learning to code → top of a software bootcamp → infra lead at an AI startup. |
 | **Teaching** | 50+ hours of enterprise training on Docker, Kubernetes and MLOps. |
 
 ## Now
