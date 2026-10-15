@@ -1,6 +1,6 @@
 # Evolving with AI.
 
-**DongHyun (Kade) Youn** · Seoul · toward an applied AI expert
+**Kade** · Seoul · toward an applied AI expert
 
 I started on racks and clouds, moved into GPUs and NPUs, and have grown alongside AI since its early days.
 These days I point that at cities — how they are run, measured and talked to.
@@ -26,4 +26,4 @@ These days I point that at cities — how they are run, measured and talked to.
 
 ## Elsewhere
 
-[kade.im](https://kade.im) · [LinkedIn](https://www.linkedin.com/in/kade93/) · [Stack Overflow](https://stackoverflow.com/users/14581797/kade-youn)
+[kade.im](https://kade.im) · [kade.im/log](https://kade.im/log)
